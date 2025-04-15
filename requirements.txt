@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+nest_asyncio
+transformers
+torch
+opencv-python-headless
+Pillow
+sqlalchemy
+faiss-cpu
+streamlit
+tqdm
+ultralytics
+
